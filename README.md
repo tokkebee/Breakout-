@@ -1,3 +1,5 @@
+must download all files to play Breakout!
+
 Losing a life and its consequences:
 - you lose a life by letting the ball hit the bottom edge of the display
 - if you still have a life left, a new ball respawns and...
